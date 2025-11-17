@@ -1,6 +1,6 @@
 # H2P ANY-NY SOFTWARE LICENSE AGREEMENT
 
-
+ 
 ##RU
 ###  📄 ЛИЦЕНЗИОННОЕ СОГЛАШЕНИЕ
     H2P ANY-NY SOFTWARE LICENSE AGREEMENT
